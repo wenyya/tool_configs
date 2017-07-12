@@ -1,0 +1,4 @@
+#!/bin/sh
+#vncserver :10 -name shaarm01 -depth 16 -geometry 1650x1000 > /dev/null 2>/dev/null
+vncserver :3 -name shaarm01 -depth 16 -geometry 1900x1000 
+#vncserver :3 -name shaarm01 -depth 16 -geometry 1400x900 
